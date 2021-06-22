@@ -62,20 +62,6 @@ house problem
 kth factor
 square free
 
-constellation
-count pairs
-diet plan
-hedger
-lift
-minimize sum
-primetime
-sudokobe
-
-collision
-lifegaurd probe
-mininum denomination of coins
-prime fibonacci
-probability
 television
 
 death
